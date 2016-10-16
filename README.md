@@ -1,9 +1,11 @@
-## Hi dude !
+## Hi Dude !
 Welcome to the official website of the mhackgyver pentest team.
 
 We are a French based pentest team. We participate at world security events and challenges.
 
-## Challenges
+You can track our activities on this website.
+
+## Challenges & Events
 - [grehack](https://grehack.fr/) (comming soon)
 - [cyberathack](https://www.cyberathack.com/) (position 8/50)
 
@@ -30,7 +32,7 @@ Also Python, Linux, Docker, DevOps evangelist.
 
 ---
 
-## Follow us
+## Follow Us
 [On CTF time](https://ctftime.org/team/30616)
 
 ## Sponsors

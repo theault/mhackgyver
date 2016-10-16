@@ -1,8 +1,7 @@
-# mhackgyver
-mhackgyver pentest team official website
-
 ## Hi dude !
 Welcome to the official website of the mhackgyver pentest team.
+
+We are a French based pentest team. We participate at world security events and challenges.
 
 ## Challenges
 - [grehack](https://grehack.fr/) (comming soon)

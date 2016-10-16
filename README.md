@@ -21,22 +21,24 @@ Development addict, system lover, security enthusiastic.
 
 Also Python, Linux, Docker, DevOps evangelist.
 
-[fcarfantan](https://github.com/4383)
+[4383](https://github.com/4383)
 
 ### Killkitten
 
-[fcarfantan](https://github.com/Killkitten)
+[Killkitten](https://github.com/Killkitten)
 
 ### Meywa2912
 
-[fcarfantan](https://github.com/Meywa2912)
+[Meywa2912](https://github.com/Meywa2912)
+
+## Follow us
+[On CTF time](https://ctftime.org/team/30616)
 
 ## Sponsors
 ![Squad - Increase the strength of your infrastructure and applications](https://www.squad.fr/static/images/theme/logo_blue.png "Squad")
 
 Official website: [Squad](https://www.squad.fr/en/know-us/)
 
-## Follow us
-[On CTF time](https://ctftime.org/team/30616)
+
 
 

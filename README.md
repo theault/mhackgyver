@@ -28,17 +28,15 @@ Security badass!
 
 ---
 
-### [4383](https://github.com/4383)
-Development addict, system lover, security enthusiastic. 
-
-Also Python, Linux, Docker, DevOps evangelist.
-
----
-
 ### [Killkitten](https://github.com/Killkitten)
 Cute
 
 ---
+
+### [4383](https://github.com/4383)
+Development addict, system lover, security enthusiastic. 
+
+Also Python, Linux, Docker, DevOps evangelist.
 
 ## Follow Us
 [On CTF time](https://ctftime.org/team/30616)

@@ -34,7 +34,8 @@ Also Python, Linux, Docker, DevOps evangelist.
 ---
 
 ### [Killkitten](https://github.com/Killkitten)
-Cute.
+Cute
+
 ---
 
 ## Follow Us

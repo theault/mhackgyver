@@ -15,14 +15,14 @@ You can track our activities on this website.
 ### [Tenflo aka Captain Flo](https://github.com/fcarfantan)
 Mhackgyver team Co-founder. 
 
-Security lover, terrible pentester, nothing can resist him !
+Security lover, terrible pentester, nothing can resist him!
 
 ---
 
 ### [Meywa2912](https://github.com/Meywa2912)
 Mhackgyver team Co-founder. 
 
-Security badass !
+Security badass!
 
 ---
 

@@ -6,14 +6,23 @@ We are a French based pentest team. We participate at world security events and 
 You can track our activities on this website.
 
 ## Challenges & Events
+- [seccon](http://ctf.seccon.jp) (comming soon)
+- [m*ctf](http://mctf.ru/en/) (comming soon)
 - [grehack](https://grehack.fr/) (comming soon)
 - [cyberathack](https://www.cyberathack.com/) (position 8/50)
 
 ## Members
 ### [Tenflo aka Captain Flo](https://github.com/fcarfantan)
-Mhackgyver team Founder. 
+Mhackgyver team Co-founder. 
 
 Security lover, terrible pentester, nothing can resist him !
+
+---
+
+### [Meywa2912](https://github.com/Meywa2912)
+Mhackgyver team Co-founder. 
+
+Security badass !
 
 ---
 
@@ -26,10 +35,6 @@ Also Python, Linux, Docker, DevOps evangelist.
 
 ### [Killkitten](https://github.com/Killkitten)
 Cute.
----
-
-### [Meywa2912](https://github.com/Meywa2912)
-
 ---
 
 ## Follow Us

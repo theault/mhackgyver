@@ -25,7 +25,7 @@ Also Python, Linux, Docker, DevOps evangelist.
 ---
 
 ### [Killkitten](https://github.com/Killkitten)
-
+Cute.
 ---
 
 ### [Meywa2912](https://github.com/Meywa2912)

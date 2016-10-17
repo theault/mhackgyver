@@ -3,7 +3,9 @@ Welcome to the official website of the mhackgyver pentest team.
 
 We are a French based pentest team. We participate at world security events and challenges.
 
-You can track our activities on this website.
+In this website you can:
+- track our activities
+- meet the team members
 
 ## Challenges & Events
 - [seccon](http://ctf.seccon.jp) (comming soon)

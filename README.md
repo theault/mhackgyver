@@ -18,10 +18,10 @@ In this website you can:
 - [m\*ctf](http://mctf.ru/en/) (comming soon)
 
 ## Members
-### [Tenflo aka Captain Flo](https://github.com/fcarfantan)
+### [tenflo aka Captain Flo](https://github.com/fcarfantan)
 Mhackgyver team Co-founder. 
 
-Security lover, terrible pentester, nothing can resist him!
+General hacker, [CTF enthusiastic](http://www.wechall.net/fr/profile/tenflo), the only thing better than a realistic hacking challenge is the smile of the girls.
 
 ---
 

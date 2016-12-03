@@ -8,10 +8,9 @@ In this website you can:
 - meet the team members
 
 ## Challenges & Events
+- [cyberathack](https://www.cyberathack.com/) (position 8/50)
 - [seccon](http://ctf.seccon.jp) (comming soon)
 - [m*ctf](http://mctf.ru/en/) (comming soon)
-- [grehack](https://grehack.fr/) (comming soon)
-- [cyberathack](https://www.cyberathack.com/) (position 8/50)
 
 ## Members
 ### [Tenflo aka Captain Flo](https://github.com/fcarfantan)

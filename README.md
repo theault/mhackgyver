@@ -8,10 +8,13 @@ In this website you can:
 - meet the team members
 
 ## Challenges & Events
-- [cyber@hack](https://www.cyberathack.com/) (position 8/50)
+- [cyber@hack 2016](https://www.cyberathack.com/) (position 8/50)
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/CTF%20result.png "Cyber@hack scoreboard")
+- [RuCTFE 2016](http://ructfe.org/) (position 134/450)
+- [RC3 CTF 2016](http://ctf.rc3.club/) (position 111/663)
+- [Juniors CTF 2016](https://juniors.ctf.org.ru/) (position 102/310)
 - [seccon](http://ctf.seccon.jp) (comming soon)
-- [m*ctf](http://mctf.ru/en/) (comming soon)
+- [m\*ctf](http://mctf.ru/en/) (comming soon)
 
 ## Members
 ### [Tenflo aka Captain Flo](https://github.com/fcarfantan)

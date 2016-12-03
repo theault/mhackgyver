@@ -9,10 +9,11 @@ In this website you can:
 
 ## Challenges & Events
 - [cyber@hack 2016](https://www.cyberathack.com/) (position 8/50)
-![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/CTF%20result.png "Cyber@hack scoreboard")
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/CTF%20result.png "Cyber@hack 2016 scoreboard")
 - [RuCTFE 2016](http://ructfe.org/) (position 134/450)
 - [RC3 CTF 2016](http://ctf.rc3.club/) (position 111/663)
 - [Juniors CTF 2016](https://juniors.ctf.org.ru/) (position 102/310)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/102%C3%A8me%20Juniors%20CTF.png "Juniors CTF 2016 scoreboard")
 - [seccon](http://ctf.seccon.jp) (comming soon)
 - [m\*ctf](http://mctf.ru/en/) (comming soon)
 

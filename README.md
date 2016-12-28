@@ -14,8 +14,12 @@ In this website you can:
 - [RC3 CTF 2016](http://ctf.rc3.club/) (position 111/663)
 - [Juniors CTF 2016](https://juniors.ctf.org.ru/) (position 102/310)
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/102%C3%A8me%20Juniors%20CTF.png "Juniors CTF 2016 scoreboard")
-- [SECCON 2016 Online CTF](http://ctf.seccon.jp) (193/930)
-- [m\*ctf](http://mctf.ru/en/) (comming soon)
+- [SECCON 2016 Online CTF](http://ctf.seccon.jp) (position 193/930)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/SECCON%202016%20Online%20CTF%20193%C3%A8me%20sur%20930.png "SECCON 2016 Online CTF scoreboard")
+- [WhiteHat Grand Prix 2016](http://whitehatvn.com/forum/whitehat-grand-prix-2016/95632-announcement) (position 60/111)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/WhiteHat%20Grand%20Prix%202016%2060%C3%A8me%20sur%20111.png "WhiteHat Grand Prix 2016 scoreboard")
+- [SharifCTF 7](http://ctf.sharif.edu/) (position 327/700)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/SharifCTF%207%20327%C3%A8me%20sur%20700.png "SharifCTF 7 scoreboard")
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/fcarfantan)

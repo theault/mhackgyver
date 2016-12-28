@@ -14,7 +14,7 @@ In this website you can:
 - [RC3 CTF 2016](http://ctf.rc3.club/) (position 111/663)
 - [Juniors CTF 2016](https://juniors.ctf.org.ru/) (position 102/310)
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/102%C3%A8me%20Juniors%20CTF.png "Juniors CTF 2016 scoreboard")
-- [seccon](http://ctf.seccon.jp) (comming soon)
+- [SECCON 2016 Online CTF](http://ctf.seccon.jp) (193/930)
 - [m\*ctf](http://mctf.ru/en/) (comming soon)
 
 ## Members

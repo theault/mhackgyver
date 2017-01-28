@@ -1,4 +1,4 @@
-## Hi Dude !
+## Hi Dude!
 Welcome to the official website of the mhackgyver pentest team.
 
 We are a French based pentest team. We participate at world security events and challenges.
@@ -20,6 +20,10 @@ In this website you can:
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/WhiteHat%20Grand%20Prix%202016%2060%C3%A8me%20sur%20111.png "WhiteHat Grand Prix 2016 scoreboard")
 - [SharifCTF 7](http://ctf.sharif.edu/) (position 327/700)
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/SharifCTF%207%20327%C3%A8me%20sur%20700.png "SharifCTF 7 scoreboard")
+- [Insomni'hack teaser 2017](https://insomnihack.ch/?page_id=16) (position 203/338)
+- [Insomni'hack teaser 2017](https://insomnihack.ch/?page_id=16) (position 203/338)
+- [FIC 2017 organized by ACISSI](https://www.forum-fic.com/site/FR/Prix__Challenges/Challenges,C59984,I59996.htm?KM_Session=c2b19ead0fc8b0ca649ae5ca56b9a52a) (position 30/50)
+- [FIC 2017 organized by EPITA](https://www.forum-fic.com/site/FR/Prix__Challenges/Challenges,C59984,I59996.htm?KM_Session=c2b19ead0fc8b0ca649ae5ca56b9a52a) (position 21/75)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/fcarfantan)

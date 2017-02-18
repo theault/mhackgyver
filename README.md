@@ -24,19 +24,17 @@ In this website you can:
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/Insomni%20hack%20203%C3%A8me%20sur%20338.png "Insomni'hack teaser 2017 scoreboard")
 - [FIC 2017 organized by ACISSI](https://www.forum-fic.com/site/FR/Prix__Challenges/Challenges,C59984,I59996.htm?KM_Session=c2b19ead0fc8b0ca649ae5ca56b9a52a) (position 30/50)
 - [FIC 2017 organized by EPITA](https://www.forum-fic.com/site/FR/Prix__Challenges/Challenges,C59984,I59996.htm?KM_Session=c2b19ead0fc8b0ca649ae5ca56b9a52a) (position 21/75)
+- [AlexCTF](https://ctf.oddcoder.com/) (position 179/1021)
+- [BITSCTF 2017](https://bitsctf.bits-quark.org/) (position 78/275)
+- [nullcon HackIM](http://ctf.nullcon.net/) (position 135/1545)
+- [BSides San Francisco CTF](https://bsidessf.com/ctf.html) (position 162/702)
+
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/fcarfantan)
 Mhackgyver team Co-founder. 
 
 General hacker, [CTF enthusiastic](http://www.wechall.net/fr/profile/tenflo), the only thing better than a realistic hacking challenge is the smile of the girls.
-
----
-
-### [Meywa2912](https://github.com/Meywa2912)
-Mhackgyver team Co-founder. 
-
-Security badass!
 
 ---
 

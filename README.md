@@ -45,13 +45,27 @@ General hacker, [CTF enthusiastic](http://www.wechall.net/fr/profile/tenflo), th
 ---
 
 ### [Killkitten](https://github.com/Killkitten)
-Cute
+Cute cat sneaking out flags from forensic stuff by following the unicorn trail.
+
+---
+
+### [sk011](https://ctftime.org/user/23271)
+A pirate with skull and beard who surf on the network and sometimes need to do lock picking to open the treasure chest. 
+
+---
+
+### [G](https://www.root-me.org/John_doo29)
+Mysterious guy playing with the web stuff. He likes doing combo like burp + sqlmap. 
+
+---
+
+### [Fiora](https://ctftime.org/user/23457)
+Math and crypto stuff are too complicate for the guys. She doesn't give up until the logic of the key is clear.
 
 ---
 
 ### [4383](https://github.com/4383)
-Development addict, system lover, security enthusiastic. 
-
+Development addict, system lover, security enthusiastic.   
 Also Python, Linux, Docker, DevOps evangelist.
 
 ## Follow Us

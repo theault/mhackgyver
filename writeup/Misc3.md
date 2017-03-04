@@ -19,4 +19,4 @@ Wait for the booting stuff.
 And go to OPKG file:
 ![OPKG stuff](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/Misc3.png)
 
-The flag is flag{RWSvIveoiFjI6WS/h3J8Us0wUEjA53cQLuHJEwOD/sT5JsGvguZjlKmU}
+The flag is __flag{RWSvIveoiFjI6WS/h3J8Us0wUEjA53cQLuHJEwOD/sT5JsGvguZjlKmU}__

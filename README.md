@@ -37,9 +37,7 @@ In this website you can:
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/XiomaraCTF%20140%C3%A8me%20sur%20335.png "Xiomara CTF 2017 scoreboard")
 
 ## Members
-### [tenflo aka Captain Flo](https://github.com/fcarfantan)
-Mhackgyver team Co-founder. 
-
+### [tenflo aka Captain Flo](https://github.com/tenflo)
 General hacker, [CTF enthusiastic](http://www.wechall.net/fr/profile/tenflo), the only thing better than a realistic hacking challenge is the smile of the girls.
 
 ---

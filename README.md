@@ -4,8 +4,8 @@ Welcome to the official website of the mhackgyver pentest team.
 We are a French based pentest team. We participate at world security events and challenges.
 
 In this website you can:
-- track our activities
-- meet the team members
+- [track our activities](https://github.com/mhackgyver-squad/mhackgyver/blob/master/README.md#challenges--events)
+- [meet the team members](https://github.com/mhackgyver-squad/mhackgyver/blob/master/README.md#members)
 
 ## Challenges & Events
 - [cyber@hack 2016](https://www.cyberathack.com/) (position 8/50)

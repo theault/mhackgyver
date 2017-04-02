@@ -35,6 +35,15 @@ In this website you can:
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/BKP%202017%20551%C3%A8me%20sur%20948.png "Boston Key Party CTF 2017 scoreboard")
 - [Xiomara CTF 2017](https://xiomara.xyz/) (position 140/335)
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/XiomaraCTF%20140%C3%A8me%20sur%20335.png "Xiomara CTF 2017 scoreboard")
+- [Pragyan CTF 2017](https://ctf.pragyan.org/home) (position 147/802)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/Pragyan%20CTF%202017%20147%C3%A8me%20sur%20802.png "Pragyan CTF 2017 scoreboard")
+- [THC CTF 2017](https://thcon.party/) (position 13/15)
+- [EasyCTF 2017](https://www.easyctf.com/) (position 154/1923)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/EasyCTF%20154%C3%A8me%20sur%201923.png "EasyCTF 2017 scoreboard")
+- [0CTF 2017 Quals](https://ctf.0ops.net/) (position 776/908)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/0CTF%20776%C3%A8me%20sur%20908.png "0CTF 2017 Quals scoreboard")
+- [VolgaCTF 2017 Quals](https://quals.2017.volgactf.ru/) (position 576/1024)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/VolgaCTF%202017%20Quals%20576%C3%A8me%20sur%201024.png "VolgaCTF 2017 Quals scoreboard")
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)

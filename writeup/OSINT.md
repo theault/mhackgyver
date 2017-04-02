@@ -1,10 +1,10 @@
-##input
+## input
 IP: http://54.89.146.217/  
 ![osint200.png](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/osint200.png)
 HINT:- OSINT200 John is so mean, he won't help.  
 HINT:- OSINT200 1. Check RFC 7033 2. Check webfinger
 
-##output
+## output
 Go to http://54.89.146.217/.well-known/webfinger  
 You will obtain:  
 SSDEEP(523bd1e47b08cfd4d92cddcbff8e541d)  

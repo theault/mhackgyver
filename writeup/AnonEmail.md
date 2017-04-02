@@ -16,5 +16,5 @@ Bad_Guy.nUWAQuXA8i253005-114196-EN@5ymail.com
 And we deduced the Bad Guy credentials:  
 Username = 114196-nUWAQ / Password = nUWAQuXA  
 
-We connected to the service with this credentials and we obtained:  
+We connected to the service with these credentials and we obtained:  
 ![flag](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/AnonEmail.png)

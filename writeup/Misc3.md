@@ -1,9 +1,9 @@
-##input
+## input
 Key to OPKG is your flag. 
 An archive containing some files.  
 HINT:- Misc300 I'm not soft, I'm not hard but Firm I am  
 
-##output
+## output
 $ file *  
 misc300.elf: ELF 32-bit LSB executable, MIPS, MIPS32 rel2 version 1 (SYSV), statically linked, stripped  
 $ chmod +x misc300.elf  

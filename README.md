@@ -53,7 +53,7 @@ In this website you can:
 - [TAMUctf 2017](http://ctf.tamu.edu/) (position 131/762)
 - [PlaidCTF 2017](http://plaidctf.com/) (position 301/1150)
 - [angstromCTF 2017](https://www.angstromctf.com/) (position 41/298)
-![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/VolgaCTF%202017%20Quals%20576%C3%A8me%20sur%201024.png "angstromCTF 2017 Quals scoreboard")
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/angstromCTF%2041%C3%A8me%20sur%20298.png "angstromCTF 2017 Quals scoreboard")
 - [DEF CON CTF Qualifier 2017](https://2017.legitbs.net/) (position 366/368)
 
 ## Members

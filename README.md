@@ -44,6 +44,17 @@ In this website you can:
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/0CTF%20776%C3%A8me%20sur%20908.png "0CTF 2017 Quals scoreboard")
 - [VolgaCTF 2017 Quals](https://quals.2017.volgactf.ru/) (position 576/1024)
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/VolgaCTF%202017%20Quals%20576%C3%A8me%20sur%201024.png "VolgaCTF 2017 Quals scoreboard")
+- [Nuit du Hack CTF Quals 2017](https://quals.nuitduhack.com/) (position 130/923)
+- [Teaser CONFidence CTF 2017](https://ctf.dragonsector.pl/) (position 193/258)
+- [ASIS CTF Quals 2017](https://asis-ctf.ir/) (position 226/451)
+- [INS'hAck 2017](http://ctf.insecurity-insa.fr/) (position 53/466)
+- [FIT-HACK CTF 2017](https://ctf.nw.fit.ac.jp/) (position 184/514)
+- [BCTF 2017](http://bctf.xctf.org.cn/) (position 220/300)
+- [TAMUctf 2017](http://ctf.tamu.edu/) (position 131/762)
+- [PlaidCTF 2017](http://plaidctf.com/) (position 301/1150)
+- [angstromCTF 2017](https://www.angstromctf.com/) (position 41/298)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/VolgaCTF%202017%20Quals%20576%C3%A8me%20sur%201024.png "angstromCTF 2017 Quals scoreboard")
+- [DEF CON CTF Qualifier 2017](https://2017.legitbs.net/) (position 366/368)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)

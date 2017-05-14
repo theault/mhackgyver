@@ -8,3 +8,5 @@ We have a form that return __Dat be invalid login info!__ if we try the wrong lo
 
 Just input the classic SQL injection:
 ![form](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/SQL_The_Injectioning_form.png)
+And you obtain the flag:
+![flag](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/SQL_The_Injectioning_flag.png)

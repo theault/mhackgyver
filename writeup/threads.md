@@ -4,4 +4,4 @@ This is pretty easy. You just have to sit down at the table to do it.
 
 ## output
 We have the format of the flag so...  
-![flag](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/threads_flag.png)
+![flag](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/threads.png)

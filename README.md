@@ -55,6 +55,8 @@ In this website you can:
 - [angstromCTF 2017](https://www.angstromctf.com/) (position 41/298)
 ![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/angstromCTF%2041%C3%A8me%20sur%20298.png "angstromCTF 2017 Quals scoreboard")
 - [DEF CON CTF Qualifier 2017](https://2017.legitbs.net/) (position 366/368)
+- [RCTF 2017](http://ctf.teamrois.cn/) (position 520/620)
+- [Security Fest 2017](https://securityfest.ctf.rocks/) (position 143/447)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)

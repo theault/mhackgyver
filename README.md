@@ -57,6 +57,9 @@ In this website you can:
 - [DEF CON CTF Qualifier 2017](https://2017.legitbs.net/) (position 366/368)
 - [RCTF 2017](http://ctf.teamrois.cn/) (position 520/620)
 - [Security Fest 2017](https://securityfest.ctf.rocks/) (position 143/447)
+- [SHA2017 CTF Teaser round](https://ctf.sha2017.org/) (position 72/395)
+- [Google Capture The Flag 2017 (Quals)](https://g.co/ctf) (position 974/1976)
+- [SECUINSIDE CTF Quals 2017](http://secuinside.com/2017/ctf.html) (position 150/543)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)

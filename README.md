@@ -60,6 +60,8 @@ In this website you can:
 - [SHA2017 CTF Teaser round](https://ctf.sha2017.org/) (position 72/395)
 - [Google Capture The Flag 2017 (Quals)](https://g.co/ctf) (position 974/1976)
 - [SECUINSIDE CTF Quals 2017](http://secuinside.com/2017/ctf.html) (position 150/543)
+- [MeePwn CTF 1st 2017](https://ctf.meepwn.team/) (position 204/542)
+- [bugs\_bunny ctf 2k17](http://www.bugsbunnyctf.me/) (position 193/420)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)

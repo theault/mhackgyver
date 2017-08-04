@@ -88,7 +88,7 @@ First we generate a pattern:
 Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab
 ```
 
-Then we use the pattern as input after the bug string:
+Then we use the pattern as input after the *bug* string:
 ```
 gdb-peda$ b * 0x0000000000400687
 Breakpoint 1 at 0x400687

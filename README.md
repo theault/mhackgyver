@@ -69,7 +69,8 @@ In this website you can:
 - [SEC-T CTF](https://sect.ctf.rocks/) (position 502/552)
 - [CSAW CTF Qualification Round 2017](https://ctf.csaw.io/) (position 451/1444)
 - [EKOPARTY CTF 2017](https://ctf.ekoparty.org/) (position 144/184)
-
+- [Kaspersky Industrial CTF Quals 2017](https://ctf.kaspersky.com/) (position 117/227)
+- [Hack Dat Kiwi 2017](https://hack.dat.kiwi/) (position 152/306)
 
 
 ## Members

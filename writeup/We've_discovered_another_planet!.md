@@ -23,7 +23,7 @@ Netl
 ```
 
 Ok it's a .NET file, it's easier to use .NET reflector for this:
-![.NET_reflector](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/Count%20down.png)
+![.NET_reflector](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/images/.NET%20Reflector.png)
 
 A bitmap? Don't worry, foremost is your friend:
 

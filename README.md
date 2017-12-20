@@ -71,7 +71,8 @@ In this website you can:
 - [EKOPARTY CTF 2017](https://ctf.ekoparty.org/) (position 144/184)
 - [Kaspersky Industrial CTF Quals 2017](https://ctf.kaspersky.com/) (position 117/227)
 - [Hack Dat Kiwi 2017](https://hack.dat.kiwi/) (position 152/306)
-
+- [Juniors CTF 2017](https://juniors.ctf.org.ru/) (position 82/268)
+- [SECCON 2017 Online CTF](https://score-quals.seccon.jp/) (position 162/1028)
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)

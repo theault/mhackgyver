@@ -73,6 +73,15 @@ In this website you can:
 - [Hack Dat Kiwi 2017](https://hack.dat.kiwi/) (position 152/306)
 - [Juniors CTF 2017](https://juniors.ctf.org.ru/) (position 82/268)
 - [SECCON 2017 Online CTF](https://score-quals.seccon.jp/) (position 162/1028)
+- [Insomni'hack teaser 2018](http://teaser.insomnihack.ch/) (position 420/433)
+- [FIC 2018 organized by ACISSI](https://www.forum-fic.com/site/FR/Prix__Challenges/Challenges,C59984,I59996.htm?KM_Session=c2b19ead0fc8b0ca649ae5ca56b9a52a) (position 11/50)
+![Scoreboard](https://github.com/mhackgyver-squad/mhackgyver/blob/master/images/FIC_2018_ACISSI_classement.png "FIC 2018 organized by ACISSI scoreboard")
+- [Break In CTF 2018](https://felicity.iiit.ac.in/threads/breakin/) (position 27/61)
+- [AceBear Security Contest](https://ctf.acebear.site/rules) (position 101/139)
+- [EvlzCTF](https://evlzctf.in/) (position 64/241)
+- [Harekaze CTF 2018](https://harekaze.com/ctf.html) (position 358/447)
+- [TAMUctf 18](https://ctf.tamu.edu/) (position 246/1272)
+
 
 ## Members
 ### [tenflo aka Captain Flo](https://github.com/tenflo)

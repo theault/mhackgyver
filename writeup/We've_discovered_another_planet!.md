@@ -1,5 +1,5 @@
 ## input
-Just see the [attachment](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/attachment/scream.exe).
+Just see the [attachment](https://github.com/mhackgyver-squad/mhackgyver/blob/master/writeup/attachment/scream.zip).
 
 ## output
 When you execute the program, you have to wait 42h. We don't have time for that:
